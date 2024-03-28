@@ -1,4 +1,4 @@
-# Video translation using LLM
+# Video translation using LLM(OpenAI)
 
 Translates video from one language to another language.
 
