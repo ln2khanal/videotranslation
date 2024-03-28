@@ -48,9 +48,3 @@ def merge_audio_video_clips(audio_clip_path=None, video_clip_path=None, video_ou
     
     video_clip.close()
     final_video_clip.close()
-    
-
-# merge_audio_video_clips(audio_clip_path="/Users/samundra/Desktop/ramaailotech/videotranslation/out/KBC/audio",
-#                         video_clip_path="/Users/samundra/Desktop/ramaailotech/videotranslation/source/KBC.mp4",
-#                         video_output_path="/Users/samundra/Desktop/ramaailotech/videotranslation/out/KBC/video"
-#                         )
